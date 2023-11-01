@@ -292,6 +292,7 @@ from .utils import region_append_without_whitespace, regions_invert
 QUOTES = {
     "“": "”",  # English double.
     "‘": "’",  # English Single.
+    "»": "«",  # German double.
     '"': '"',  # Double universal.
     "'": "'",  # Single universal.
 }
